@@ -1,0 +1,6 @@
+git init
+git status
+git add .gitignore   (for tracking)
+git commit -m "type the meaningfull message"
+git push 
+git rm filename  -  for untracking the files.
